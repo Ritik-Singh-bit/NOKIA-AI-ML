@@ -86,7 +86,7 @@ pip install pandas numpy scikit-learn matplotlib tensorflow torch mysql-connecto
 
 ## 👨‍💻 Author
 
-**Rohit Kumar**
+**Ritik Singh**
 
 AI & Data Analytics Student
 
