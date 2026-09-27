@@ -1,7 +1,5 @@
 # 📊 Telecom AI & Machine Learning Projects (MOP Repository)
 
-https://ritik-singh-bit.github.io/NOKIA-AI-ML/
-
 ## Overview
 
 This repository contains a collection of **Artificial Intelligence, Machine Learning, Data Analytics, SQL, Python, and ETL Method of Procedure (MOP)** projects developed for telecom analytics and AI learning.
